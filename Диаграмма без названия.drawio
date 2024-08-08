@@ -1,0 +1,418 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Page-1" id="bASxQMh507JP5K0JOqaS">
+    <mxGraphModel dx="1598" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hiN60o-xSemusRehegCz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-3" target="hiN60o-xSemusRehegCz-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiN60o-xSemusRehegCz-3" target="eWrs5Qo76Qx7165JSpqv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-3" value="Здравствуйте! Меня зовут [Имя], я представляю банк Тинькофф. Удобно ли вам сейчас говорить?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="270" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-5" target="hiN60o-xSemusRehegCz-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-5" value="Нет, не удобно.&lt;div&gt;(Негативный ответ)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-6" value="Да, удобно.&lt;div&gt;(Положительный ответ)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-8" target="hiN60o-xSemusRehegCz-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="640" />
+              <mxPoint x="25" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-8" value="Я понимаю, что сейчас может быть не самое удобное время. Когда вам будет удобнее перезвонить?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="65" y="525" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-9" value="&#xa;Спасибо! Я обязательно перезвоню вам в указанное время. Хорошего дня!&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="670" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiN60o-xSemusRehegCz-11" target="eWrs5Qo76Qx7165JSpqv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiN60o-xSemusRehegCz-11" target="eWrs5Qo76Qx7165JSpqv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-11" value="Отлично! Рад, что у нас есть возможность узнать о нашей продукции. Я хотел бы рассказать вам о кредитной карте Тинькофф Платинум, которая может стать отличным финансовым инструментом для вас. Она предлагает до 55 дней льготного периода без начисления процентов, а также множество бонусов и кешбэков." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="850" y="70" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-13" value="&#xa;Спасибо! Скажите, как часто вы пользуетесь кредитными картами?&lt;br&gt;Какие условия для вас наиболее важны: льготный период, процентная ставка или кешбэк?&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="390" y="160" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hiN60o-xSemusRehegCz-6" target="hiN60o-xSemusRehegCz-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-16" target="hiN60o-xSemusRehegCz-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-16" value="Да, конечно.&lt;div&gt;(Положительный ответ)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="1" vertex="1">
+          <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-18" target="hiN60o-xSemusRehegCz-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-18" value="Нет, спасибо&lt;div&gt;(Негативный ответ))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+          <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-21" target="hiN60o-xSemusRehegCz-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-21" target="hiN60o-xSemusRehegCz-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="308" />
+              <mxPoint x="1170" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-21" value="&#xa;Я понимаю. Тем не менее, позвольте мне кратко рассказать о главных преимуществах карты. Вы можете сами решить, насколько это интересно для вас.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="840" y="280" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-23" target="hiN60o-xSemusRehegCz-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-23" value="Меня не интересуют кредитные карты / У меня уже есть кредитная карта." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+          <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-26" target="hiN60o-xSemusRehegCz-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-26" target="hiN60o-xSemusRehegCz-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1235" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-26" value="&#xa;Как вы думаете, такие условия могут быть полезны для вас? Готовы ли вы оформить заявку на карту прямо сейчас? Это займет всего несколько минут.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="70" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-28" target="hiN60o-xSemusRehegCz-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="hiN60o-xSemusRehegCz-28" target="eWrs5Qo76Qx7165JSpqv-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1569.9999999999995" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiN60o-xSemusRehegCz-28" target="eWrs5Qo76Qx7165JSpqv-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-28" value="&lt;br&gt;Да, давайте оформим.&lt;div&gt;(Положительный ответ)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-30" value="Нет, я еще подумаю&lt;br&gt;(Негативный ответ))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hiN60o-xSemusRehegCz-30" target="hiN60o-xSemusRehegCz-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-33" target="hiN60o-xSemusRehegCz-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="338" />
+              <mxPoint x="1900" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-33" value="Конечно, понимаю, что нужно время на размышления. Я могу отправить вам на почту всю информацию, чтобы вы могли спокойно все обдумать. Какой у вас электронный адрес?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="270" width="160" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hiN60o-xSemusRehegCz-35" target="hiN60o-xSemusRehegCz-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1900" y="180" />
+              <mxPoint x="1900" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-35" value="Оформление" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1700" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-36" value="Спасибо за уделенное время. Если у вас появятся вопросы, вы всегда можете обратиться в наш банк. Хорошего дня и всего доброго!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="210" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hiN60o-xSemusRehegCz-13" target="hiN60o-xSemusRehegCz-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.006;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hiN60o-xSemusRehegCz-13" target="hiN60o-xSemusRehegCz-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="280" />
+              <mxPoint x="635" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hiN60o-xSemusRehegCz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.353;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hiN60o-xSemusRehegCz-21" target="hiN60o-xSemusRehegCz-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-3" target="uwCDQCHVVW8loNhyQD0F-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-3" value="Здравствуйте! Меня зовут [Имя], я представляю банк Тинькофф. Удобно ли вам сейчас говорить?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="650" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-5" target="uwCDQCHVVW8loNhyQD0F-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-5" value="Нет, не удобно.&lt;div&gt;(Негативный ответ)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="640" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-6" value="Да, удобно.&lt;div&gt;(Положительный ответ)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="820" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-8" target="uwCDQCHVVW8loNhyQD0F-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-8" value="Я понимаю, что сейчас может быть не самое удобное время. Когда вам будет удобнее перезвонить?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="625" y="910" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-9" value="&#xa;Спасибо! Я обязательно перезвоню вам в указанное время. Хорошего дня!&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="625" y="1050" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1680" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-11" value="Отлично! Рад, что у нас есть возможность узнать о нашей продукции. Я хотел бы рассказать вам о кредитной карте Тинькофф Платинум, которая может стать отличным финансовым инструментом для вас. Она предлагает до 55 дней льготного периода без начисления процентов, а также множество бонусов и кешбэков." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="450" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-13" value="&#xa;Спасибо! Скажите, как часто вы пользуетесь кредитными картами?&lt;br&gt;Какие условия для вас наиболее важны: льготный период, процентная ставка или кешбэк?&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="950" y="540" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-6" target="uwCDQCHVVW8loNhyQD0F-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-16" target="uwCDQCHVVW8loNhyQD0F-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-16" value="Да, конечно.&lt;div&gt;(Положительный ответ)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-18" target="uwCDQCHVVW8loNhyQD0F-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-18" value="Нет, спасибо&lt;div&gt;(Негативный ответ))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-21" target="uwCDQCHVVW8loNhyQD0F-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-21" target="uwCDQCHVVW8loNhyQD0F-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="688" />
+              <mxPoint x="1730" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-21" value="&#xa;Я понимаю. Тем не менее, позвольте мне кратко рассказать о главных преимуществах карты. Вы можете сами решить, насколько это интересно для вас.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="660" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-23" target="uwCDQCHVVW8loNhyQD0F-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-23" value="Меня не интересуют кредитные карты / У меня уже есть кредитная карта." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-26" target="uwCDQCHVVW8loNhyQD0F-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-26" target="uwCDQCHVVW8loNhyQD0F-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1795" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-26" value="Как вы думаете, такие условия могут быть полезны для вас? Готовы ли вы оформить заявку на карту прямо сейчас? Это займет всего несколько минут.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="465" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-28" target="uwCDQCHVVW8loNhyQD0F-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-28" value="&lt;br&gt;Да, давайте оформим.&lt;div&gt;(Положительный ответ)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2220" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-30" value="&lt;br&gt;Нет, я еще подумаю&lt;br&gt;(Негативный ответ))" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-30" target="uwCDQCHVVW8loNhyQD0F-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-33" target="uwCDQCHVVW8loNhyQD0F-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2460" y="718" />
+              <mxPoint x="2460" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-33" value="Конечно, понимаю, что нужно время на размышления. Я могу отправить вам на почту всю информацию, чтобы вы могли спокойно все обдумать. Какой у вас электронный адрес?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="2230" y="650" width="160" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-35" target="uwCDQCHVVW8loNhyQD0F-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-35" value="&#xa;Да, давайте оформим.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="2260" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-36" value="Спасибо за уделенное время. Если у вас появятся вопросы, вы всегда можете обратиться в наш банк. Хорошего дня и всего доброго!" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="2540" y="590" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-13" target="uwCDQCHVVW8loNhyQD0F-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.006;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-13" target="uwCDQCHVVW8loNhyQD0F-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="660" />
+              <mxPoint x="1195" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwCDQCHVVW8loNhyQD0F-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.353;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uwCDQCHVVW8loNhyQD0F-21" target="uwCDQCHVVW8loNhyQD0F-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-1" target="eWrs5Qo76Qx7165JSpqv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-1" value="Откуда у вас мой номер?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-4" value="&#xa;Ваш номер был получен из открытых источников, таких как анкеты, оставленные вами на нашем сайте, или вы ранее давали согласие на получение предложений&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="30" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-8" target="eWrs5Qo76Qx7165JSpqv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-8" value="Вы могли бы мне перезвонить?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hiN60o-xSemusRehegCz-3" target="eWrs5Qo76Qx7165JSpqv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-10" target="hiN60o-xSemusRehegCz-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="640" />
+              <mxPoint x="25" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-10" value="Да конечно, Когда вам будет удобнее перезвонить?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-14" value="Сколько это будет стоить?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-17" value="&#xa;Обслуживание кредитной карты Тинькофф банка может быть бесплатным при выполнении определённых условий, таких как ежемесячные траты на определенную сумму. Подробности мы можем обсудить более детально.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-70" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.55;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-17" target="hiN60o-xSemusRehegCz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-21" target="eWrs5Qo76Qx7165JSpqv-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1679.9999999999995" y="80.35294117647072" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-21" value="&#xa;Каковы условия доставки?&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="1529.9999999999995" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1899.6470588235293" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1900" y="130" />
+              <mxPoint x="1900" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-23" target="hiN60o-xSemusRehegCz-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-23" value="&#xa; Доставка кредитной карты осуществляется бесплатно курьером или через почту России. Сроки доставки зависят от вашего местоположения, но обычно это занимает несколько дней.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-27" value="Почему я должен доверять вам?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-30" value="Тинькофф банк является одним из крупнейших и надежных банков в России, мы работаем на рынке уже много лет и обслуживаем миллионы клиентов. Вы всегда можете проверить информацию о нас в открытых источниках и на нашем официальном сайте" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-190" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-27" target="eWrs5Qo76Qx7165JSpqv-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-30" target="hiN60o-xSemusRehegCz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-38" target="eWrs5Qo76Qx7165JSpqv-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1679.9999999999995" y="-90.23529411764707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-38" value="&#xa;Какие документы мне нужно предоставить?&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1529.9952941176473" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eWrs5Qo76Qx7165JSpqv-41" target="hiN60o-xSemusRehegCz-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1930" y="-68" />
+              <mxPoint x="1930" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWrs5Qo76Qx7165JSpqv-41" value="&#xa;Для оформления кредитной карты вам потребуется паспорт и, возможно, дополнительные документы, подтверждающие ваш доход.&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="-120" width="220" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
